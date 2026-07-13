@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+
+# Database volumes
+volume-data/
+influxdb_data/
+
+# Other database folders
+mysql_data/
+postgres_data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
